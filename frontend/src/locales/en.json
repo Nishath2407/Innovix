@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "findTherapist": "Find a therapist",
+    "privacy": "Privacy",
+    "safetyHub": "Safety hub",
+    "resources": "Resources",
+    "login": "Log in",
+    "getStarted": "Get started"
+  },
+  "hero": {
+    "title": "Professional support, wherever you are.",
+    "subtitle": "Connect with licensed therapists through private online sessions that fit your time, your comfort, and how you'd rather talk.",
+    "ctaPrimary": "Find a Therapist",
+    "ctaSecondary": "Private Check-In"
+  }
+}

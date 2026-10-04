@@ -1,0 +1,35 @@
+# --- Environments & secrets ---
+.env
+.env.*
+!.env.example
+venv/
+*.pem
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# --- Database ---
+*.db
+*.sqlite3
+safevoice_dev.db
+
+# --- Node / frontend ---
+node_modules/
+dist/
+.vite/
+
+# --- Uploads (credentials, avatars — never commit real uploads) ---
+backend/uploads/
+backend/instance/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
