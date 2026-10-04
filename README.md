@@ -8,19 +8,17 @@ A **privacy-first** online therapy platform that connects people with licensed t
 
 <br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Pytest](https://img.shields.io/badge/Tests-39_passing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-<br/>
+[![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org/)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com/)
+[![Pytest](https://img.shields.io/badge/Tests-39_passing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
 </div>
 
@@ -122,7 +120,7 @@ Many people never reach professional help — not because they don't want it, bu
 │                                                              │
 │   ┌──────────────┐  ┌────────────┐  ┌─────────────────────┐ │
 │   │  Razorpay    │  │ AI Check-in│  │  Admin & Audit      │ │
-│   │  Payments    │  │ (DistilRoBERTa) │                     │ │
+│   │  Payments    │  │ (Emotion)  │  │                     │ │
 │   └──────────────┘  └────────────┘  └─────────────────────┘ │
 └──────────────────────────────────┬───────────────────────────┘
                                    │  SQLAlchemy
@@ -418,20 +416,6 @@ To make mental-health support **accessible, flexible, and trustworthy** — by t
 SafeVoice is **not an emergency service**, and the AI check-in is **not a diagnostic tool**. If you or someone you know is in crisis or in immediate danger, contact your local emergency number right away. In India, you can call **Tele-MANAS at 14416** (toll-free, 24/7).
 
 > The therapists and accounts created by `seed_database.py` are **sample demo data** for development only.
-
----
-
-## 🔗 Links
-
-| Resource             | Link                                                                     |
-| -------------------- | ------------------------------------------------------------------------ |
-| 🎬 Demo Video        | [Watch the demo](https://YOUR-DEMO-LINK-HERE)                            |
-| 💻 Source Code       | [github.com/Nishath2407/Innovix](https://github.com/Nishath2407/Innovix) |
-| 🌐 Live App          | [Open SafeVoice](https://YOUR-LIVE-LINK-HERE)                            |
-| 📘 Architecture Docs | [`docs/architecture.md`](docs/architecture.md)                           |
-| 📗 API Reference     | [`docs/api.md`](docs/api.md)                                             |
-| 🔐 Security Notes    | [`docs/security.md`](docs/security.md)                                   |
-| 🚀 Deployment Guide  | [`docs/deployment.md`](docs/deployment.md)                               |
 
 ---
 
